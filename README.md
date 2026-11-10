@@ -1,5 +1,5 @@
-# ICA Receipt Parser
-An OCR pipeline that extracts and structures text from Swedish grocery receipts (ICA supermarket chain), built as a first hands-on project in computer vision and OCR.
+# Grocery Store Receipt Parser
+An OCR pipeline that extracts and structures text from Swedish grocery receipts, built as a first hands-on project in computer vision and OCR.
 
 ## What it does
 Given a photo of a receipt, the pipeline:
@@ -43,7 +43,7 @@ Total 281 29
 - **NumPy** — coordinate math and array manipulation
 
 ## Project structure
-ica-receipt-parser/
+grocery store receipt parser/
 ├── data/
 │ ├── raw/ # sample receipt photos (not all committed)
 │ └── samples/ # a few examples for demonstration
